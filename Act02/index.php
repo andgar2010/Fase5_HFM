@@ -1,3 +1,10 @@
+<!-- 
+    File: index.php 
+    Author: Andrés García 
+    Copyright: 2018 Andrés García 
+    Date: 28/02/18 
+-->
+
 <!DOCTYPE html>
 <html lang="es">
 
@@ -5,7 +12,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Actividad 01 Andrés García</title>
+    <title>Actividad 02 Andrés García</title>
     <meta name="author" content="Andres Garcia">
     <meta name="description" content="Desarrollo de Actividad 01 PHP">
     <!-- Bootstrap CSS -->
@@ -18,6 +25,7 @@
 
 <body>
 <?php
+
     $msg = array('Hacer un programa que muestre en pantalla información de PHP con la función phpinfo().
                     Muestre la información centrada horizontalmente en la pantalla.', 
                 'Mostrar en pantalla una tabla de 10 por 10 con los números del 1 al 100.',
