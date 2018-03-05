@@ -33,7 +33,7 @@
     echo '<div class="container">';
         echo'<div class="row">
                 <div class="col-lg-12">
-                    <h1 class="text-center">Desarrollo de actividad 01 PHP</h1>
+                    <h1 class="text-center">Desarrollo de actividad 02 PHP</h1>
                     <h3 class="text-center">Realizado por Andrés García</h3>                
                 </div>                    
              </div>
