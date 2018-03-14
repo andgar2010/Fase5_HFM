@@ -2,7 +2,7 @@ CREATE TABLE friend
 (
   id int not null autoincrement primary key,
   first_name varchar(50) not null,
-  last_name varvhar(50) not null,
+  last_name varchar(50) not null,
   telephone varchar(15) not null,
   address varchar(50) not null
 );
